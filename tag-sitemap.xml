@@ -3,15 +3,57 @@
 
 
     <url>
-        <loc>https://planbcode.com/tags/Blog/</loc>
-        <lastmod>2021-01-10T01:47:14.878Z</lastmod>
+        <loc>https://planbcode.com/tags/회사/</loc>
+        <lastmod>2021-01-14T07:57:34.342Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://planbcode.com/tags/Hexo/</loc>
-        <lastmod>2021-01-10T01:47:14.878Z</lastmod>
+        <loc>https://planbcode.com/tags/제주-라이프/</loc>
+        <lastmod>2021-01-14T07:55:25.686Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://planbcode.com/tags/단상/</loc>
+        <lastmod>2021-01-14T07:55:25.686Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://planbcode.com/tags/불안/</loc>
+        <lastmod>2021-01-14T07:52:48.022Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://planbcode.com/tags/리눅스-그냥-재미로/</loc>
+        <lastmod>2021-01-14T07:51:56.845Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://planbcode.com/tags/책/</loc>
+        <lastmod>2021-01-14T07:51:56.845Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://planbcode.com/tags/건강/</loc>
+        <lastmod>2021-01-14T07:45:16.885Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://planbcode.com/tags/포노사피엔스/</loc>
+        <lastmod>2021-01-14T07:37:20.469Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
