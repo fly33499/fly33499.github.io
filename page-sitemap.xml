@@ -10,17 +10,8 @@
     
     
     <url>
-        <loc>https://planbcode.com/about/</loc>
-        <lastmod>2021-01-14T17:17:03.901Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://planbcode.com/tags/</loc>
-        <lastmod>2021-01-08T12:30:17.567Z</lastmod>
+        <lastmod>2021-01-14T17:22:28.998Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -29,7 +20,16 @@
     
     <url>
         <loc>https://planbcode.com/archive/</loc>
-        <lastmod>2021-01-08T12:30:17.522Z</lastmod>
+        <lastmod>2021-01-14T17:22:02.653Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://planbcode.com/about/</loc>
+        <lastmod>2021-01-14T17:17:03.901Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
