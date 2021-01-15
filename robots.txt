@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://planbcode.com/sitemap.xml
