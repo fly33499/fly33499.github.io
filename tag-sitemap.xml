@@ -3,29 +3,43 @@
 
 
     <url>
-        <loc>https://planbcode.com/tags/건강/</loc>
-        <lastmod>2021-01-15T03:41:58.713Z</lastmod>
+        <loc>https://planbcode.com/tags/회사/</loc>
+        <lastmod>2021-01-16T04:33:08.773Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://planbcode.com/tags/포노사피엔스/</loc>
+        <lastmod>2021-01-16T04:32:15.349Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://planbcode.com/tags/책/</loc>
+        <lastmod>2021-01-16T04:32:15.349Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://planbcode.com/tags/단상/</loc>
-        <lastmod>2021-01-15T03:41:58.713Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://planbcode.com/tags/회사/</loc>
-        <lastmod>2021-01-15T03:41:53.554Z</lastmod>
+        <lastmod>2021-01-16T04:31:21.421Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://planbcode.com/tags/불안/</loc>
-        <lastmod>2021-01-15T03:41:28.257Z</lastmod>
+        <lastmod>2021-01-16T04:30:14.549Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://planbcode.com/tags/건강/</loc>
+        <lastmod>2021-01-16T04:24:51.574Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -40,20 +54,6 @@
     <url>
         <loc>https://planbcode.com/tags/리눅스-그냥-재미로/</loc>
         <lastmod>2021-01-15T03:40:17.489Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://planbcode.com/tags/책/</loc>
-        <lastmod>2021-01-15T03:40:17.489Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://planbcode.com/tags/포노사피엔스/</loc>
-        <lastmod>2021-01-15T03:40:05.179Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
